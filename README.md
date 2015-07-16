@@ -12,4 +12,5 @@ Here is the original repository for the [School Attendance Application](https://
 
 ## Instructions on how to run the application  
 * Visit my Github page (http://qqyoungqq.github.io/school-attendance/).
+* The checkbox results (attend or not attend) are randomly generated when refreshing the browser. 
 * Click the checkbox. The "Days Missed-col" will change accordingly.   
