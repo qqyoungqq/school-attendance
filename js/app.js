@@ -11,7 +11,22 @@ var Model = {
             name : 'Lilly the Lizard',
             checklist : [],
             missDate: 0
-        }
+        },
+        {
+            name : 'Paulrus the Walrus',
+            checklist : [],
+            missDate: 0
+        }, 
+        {
+            name : 'Gregory the Goat',
+            checklist : [],
+            missDate: 0
+        },  
+        {
+            name : 'Adam the Anaconda',
+            checklist : [],
+            missDate: 0
+        }                    
     ], // end students
     genList: function(c) {
         var list=[];
